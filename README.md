@@ -17,3 +17,11 @@
 ### If you want to run all datasets at once, type in this command:
 
 `./run.bash sel ALL`
+
+### If the models are saved, there is another script to do inference
+
+`./quick_run.bash sel [Dataset_name]` e.g., `./quick_run.bash sel FordA`
+
+### Or inference all datasets at once, type in this command:
+
+`./quick_run.bash sel ALL`
