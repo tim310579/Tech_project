@@ -12,19 +12,19 @@
 
 3. `python3 sel_evaluation.py [Dataset_name]` e.g., `python3 sel_evaluation.py FordA`
 
-### There is a script that can execute all steps in SPN, just type in command in terminal as below:
+### There is a script that can execute all steps in SPN, just type in command in terminal as below.
 
 `./run.bash sel [Dataset_name]` e.g., `./run.bash sel FordA`
 
-### If you want to run all datasets at once, type in this command:
+### If you want to run all datasets at once, type in this command.
 
 `./run.bash sel ALL`
 
-### If the models are saved, there is another script to do inference
+### If the models are saved, there is another script to do inference.
 
 `./quick_run.bash sel [Dataset_name]` e.g., `./quick_run.bash sel FordA`
 
-### Or inference all datasets at once, type in this command:
+### Or inference all datasets at once, type in this command.
 
 `./quick_run.bash sel ALL`
 
@@ -42,18 +42,18 @@
 
 5. `python3 kgea_inference.py [Dataset_name]` e.g., `python3 kgea_inference.py FordA`
 
-### There is a script that can execute all steps in SPN, just type in command in terminal as below:
+### There is a script that can execute all steps in SPN, just type in command in terminal as below.
 
 `./run.bash kgea [Dataset_name]` e.g., `./run.bash kgea FordA`
 
-### If you want to run all datasets at once, type in this command:
+### If you want to run all datasets at once, type in this command.
 
 `./run.bash kgea ALL`
 
-### If the models are saved, there is another script to do inference
+### If the models are saved, there is another script to do inference.
 
 `./quick_run.bash kgea [Dataset_name]` e.g., `./quick_run.bash kgea FordA`
 
-### Or inference all datasets at once, type in this command:
+### Or inference all datasets at once, type in this command.
 
 `./quick_run.bash kgea ALL`
