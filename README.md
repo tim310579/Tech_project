@@ -38,9 +38,9 @@
 
 3. `python3 state_generator.py [Dataset_name]` e.g., `python3 state_generator.py FordA`
 
-4. `python3 kgea_optimizer.py [Dataset_name] e.g., `python3 kgea_optimizer.py FordA`
+4. `python3 kgea_optimizer.py [Dataset_name]` e.g., `python3 kgea_optimizer.py FordA`
 
-5. `python3 kgea_inference.py [Dataset_name] e.g., `python3 kgea_inference.py FordA`
+5. `python3 kgea_inference.py [Dataset_name]` e.g., `python3 kgea_inference.py FordA`
 
 ### There is a script that can execute all steps in SPN, just type in command in terminal as below:
 
