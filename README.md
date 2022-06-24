@@ -2,7 +2,7 @@
 
 ## There are all 9 Datasets: 
 
-## include FordA, FordB, SCP1, SCP2, Motor, A_DeviceMotion_data, basketball, ADL, Falls
+## FordA, FordB, SCP1, SCP2, Motor, A_DeviceMotion_data, basketball, ADL, Falls
 
 ### For SPN's execution step
 
