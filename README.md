@@ -1,6 +1,6 @@
 # Tech_project
 
-## There are all 9 Datasets: 
+## There are total 9 Datasets: 
 
 ## FordA, FordB, SCP1, SCP2, Motor, A_DeviceMotion_data, basketball, ADL, Falls
 
