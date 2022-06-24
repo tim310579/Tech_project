@@ -6,7 +6,7 @@
 
 ### For SPN's execution step
 
-1. `python3 snippet_extractor.py [Dataset_name]` e.g., `python3 snippet_extractor.py FordA`
+#### 1. `python3 snippet_extractor.py [Dataset_name]` e.g., `python3 snippet_extractor.py FordA`
 
 2. `python3 sel_predictor.py [Dataset_name]` e.g., `python3 sel_predictor.py FordA`
 
