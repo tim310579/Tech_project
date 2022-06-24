@@ -12,7 +12,7 @@
 
 3. `python3 sel_evaluation.py [Dataset_name]` e.g., `python3 sel_evaluation.py FordA`
 
-### There is a script that can execute all steps in SPN, just type in command in terminal as below.
+### There is a script that can execute all steps in SPN, just type in command as below.
 
 `./run.bash sel [Dataset_name]` e.g., `./run.bash sel FordA`
 
@@ -42,7 +42,7 @@
 
 5. `python3 kgea_inference.py [Dataset_name]` e.g., `python3 kgea_inference.py FordA`
 
-### There is a script that can execute all steps in SPN, just type in command in terminal as below.
+### There is a script that can execute all steps in KGNA, just type in command as below.
 
 `./run.bash kgea [Dataset_name]` e.g., `./run.bash kgea FordA`
 
